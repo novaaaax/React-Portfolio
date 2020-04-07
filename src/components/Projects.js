@@ -1,5 +1,4 @@
 import React from 'react';
-import './Projects.css'
 import project1 from './project1.jpeg'
 import project2screenshot from './project2screenshot.jpeg'
 import example from './example.jpeg'
@@ -8,7 +7,7 @@ import readmescreenshot from './readmescreenshot.jpeg'
 
 export default function Projects() {
     return (
-        <div>
+        <div id="projects">
             <div id="cards" className="column col-6 col-xs-12">
                 <div className="card" style={{
                     marginTop: "10px"
