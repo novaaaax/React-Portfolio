@@ -9,7 +9,7 @@ export default function Navbar(){
     <a href="#projects" className="btn btn-link">Projects</a>
     <a href="#about" className="btn btn-link">About</a>
     <a href="#footer" className="btn btn-link" >Contact</a>
-    <a href={Resume} target="_blank" rel="noopener noreferrer" className="btn btn-link">Resume</a>
+    <a href={Resume} target="_blank" rel="noopener noreferrer" className="btn btn-link">Resume <i class="fas fa-external-link-alt"></i></a>
   </section>
 </header>
     );
