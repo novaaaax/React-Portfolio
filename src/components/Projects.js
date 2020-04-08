@@ -10,7 +10,8 @@ export default function Projects() {
         <div id="projects">
             <div id="cards" className="column col-6 col-xs-12">
                 <div className="card" style={{
-                    marginTop: "10px"
+                    marginTop: "10px",
+                    borderRadius: "25px"
                 }}>
                     <div className="card-header">
                         <div className="card-title h5">Soundtrack That Movie!</div>
@@ -32,7 +33,8 @@ export default function Projects() {
             </div>
             <div id="cards" className="column col-6 col-xs-12">
                 <div className="card" style={{
-                    marginTop: "10px"
+                    marginTop: "10px",
+                    borderRadius: "25px"
                 }}>
                     <div className="card-header">
                         <div className="card-title h5">Car Amplify</div>
@@ -54,7 +56,8 @@ export default function Projects() {
             </div>
             <div id="cards" className="column col-6 col-xs-12">
                 <div className="card" style={{
-                    marginTop: "10px"
+                    marginTop: "10px",
+                    borderRadius: "25px"
                 }}>
                     <div className="card-header">
                         <div className="card-title h5">Employee Database</div>
@@ -72,7 +75,8 @@ export default function Projects() {
             </div>
             <div id="cards" className="column col-6 col-xs-12">
                 <div className="card" style={{
-                    marginTop: "10px"
+                    marginTop: "10px",
+                    borderRadius: "25px"
                 }}>
                     <div className="card-header">
                         <div className="card-title h5">Readme Generator</div>

@@ -6,6 +6,10 @@ body{
     background-color: #768a95;
 }
 
+header{
+    position: fixed;
+}
+
 #cards{
     display: inline-block;
 }
@@ -18,6 +22,12 @@ body{
 
 header{
     background-color: #e9ecef;
+    overflow: hidden;
+    position: fixed;
+}
+
+.btn.btn-link{
+    color: #3b4351;
 }
 
 a{
