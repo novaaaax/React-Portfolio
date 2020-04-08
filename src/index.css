@@ -30,6 +30,11 @@ header{
     color: #3b4351;
 }
 
+.btn.btn-primary{
+    background: #3b4351;
+    border-color: #3b4351;
+}
+
 a:visited{
     color: #3b4351;;
 }
