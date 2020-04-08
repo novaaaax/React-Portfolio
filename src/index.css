@@ -2,6 +2,10 @@ html{
     scroll-behavior: smooth;
 }
 
+body{
+    background-color: #768a95;
+}
+
 #cards{
     display: inline-block;
 }
@@ -19,3 +23,4 @@ header{
 a{
     color: #747677;
 }
+
