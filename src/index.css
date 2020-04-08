@@ -30,7 +30,10 @@ header{
     color: #3b4351;
 }
 
-a{
-    color: #747677;
+a:visited{
+    color: #3b4351;;
 }
 
+.github{
+    color: #3b4351;   
+}

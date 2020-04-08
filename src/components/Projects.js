@@ -23,8 +23,8 @@ export default function Projects() {
                         <img src={project1} className="img-responsive" alt="project one" />
                     </div>
                     <div className="card-footer">
-                        <a href="https://github.com/novaaaax/soundtrack-that-movie" target="_blank" className="btn btn-primary">Repo</a>
-                        <a href="https://novaaaax.github.io/soundtrack-that-movie/" target="_blank" style={{
+                        <a href="https://github.com/novaaaax/soundtrack-that-movie" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Repo</a>
+                        <a href="https://novaaaax.github.io/soundtrack-that-movie/" target="_blank" rel="noopener noreferrer" style={{
                             paddingLeft: "5px"
                         }}>Deployed Link</a>
 
@@ -46,8 +46,8 @@ export default function Projects() {
                         <img src={project2screenshot} className="img-responsive" alt="project two" />
                     </div>
                     <div className="card-footer">
-                        <a href="https://github.com/novaaaax/Car_amplify" target="_blank" className="btn btn-primary">Repo</a>
-                        <a href="https://car-amplify.herokuapp.com/" target="_blank" style={{
+                        <a href="https://github.com/novaaaax/Car_amplify" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Repo</a>
+                        <a href="https://car-amplify.herokuapp.com/" target="_blank" rel="noopener noreferrer" style={{
                             paddingLeft: "5px"
                         }}>Deployed Link</a>
 
@@ -69,7 +69,7 @@ export default function Projects() {
                         <img src={example} className="img-responsive" alt="project two" />
                     </div>
                     <div className="card-footer">
-                        <a href="https://car-amplify.herokuapp.com/" target="_blank" className="btn btn-primary">Repo</a>
+                        <a href="https://car-amplify.herokuapp.com/" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Repo</a>
                     </div>
                 </div>
             </div>
@@ -88,7 +88,7 @@ export default function Projects() {
                         <img src={readmescreenshot} className="img-responsive" alt="project two" />
                     </div>
                     <div className="card-footer">
-                        <a href="https://github.com/novaaaax/readme-generator" target="_blank" className="btn btn-primary">Repo</a>
+                        <a href="https://github.com/novaaaax/readme-generator" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Repo</a>
                     </div>
                 </div>
             </div>
